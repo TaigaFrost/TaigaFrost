@@ -1,5 +1,7 @@
 # I'm Airung from Taiga Frost
 
+«Our code is absolute zero. Our penetration is silent.»
+
 <!--
 **TaigaFrost/TaigaFrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
